@@ -9,6 +9,7 @@ It helps users keep track of what kind of burgers they eat or will eat at the gi
 
 How users can use the project?:
 Simpley log on to https://serene-mountain-18371.herokuapp.com
+![Eat A Burger Demo](ezgif.com-gif-maker.gif)
 
 Users can get help with this project at:
 asoler000@gmail.com
